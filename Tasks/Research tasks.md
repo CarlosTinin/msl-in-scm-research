@@ -28,17 +28,26 @@ Found two works that will help to set up the initial elaboration:
 - From a literature review to a conceptual framework for sustainable supply chain management (Stefan Seuring, Martin Müller)
 
 4. *Initial clustering works based on AI field of study.*
-### From 05/11/2024 to 12/11/2024
+### From 09/11/2024 to 12/11/2024
 
 1. *Search for more papers related to the topic preferring review papers.*
 2. *Upload research resources in Github.*
+- https://github.com/CarlosTinin/msl-in-scm-research
 
-### From 05/11/2024 to 12/11/2024
+### From 12/11/2024 to 16/11/2024
+
+1. Focused search of Professor Stefan Gold's articles regarding MSL in SCM.
+	1. Used SCOPUS and Capes CAFe.
+
+### From 16/11/2024 to 19/11/2024
+
+
+
+#### Remaining Tasks:
 
 1. *Consolidate and Apply the framework studied to at least 5 works, initially.*
 	a. *Adapt Kevin's structure to the classification framework described by Strand et al (2023).*
 
-2. *Improving repository clustering based on common caracteristics.*
+2. *Improving repository clustering based on common characteristics.*
 
-- Capes CAFe - logar
-- Science Direct
+
