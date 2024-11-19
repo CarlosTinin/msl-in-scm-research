@@ -42,7 +42,7 @@ Referência
 	  doi={  }
 	}
 
-## 05. The UK construction and facilities management sector'sresponse to the Modern Slavery Act: An intra-industryinitiative against modern slavery
+## 05. The UK construction and facilities management sector's response to the Modern Slavery Act: An intra-industry initiative against modern slavery
 
 Referência
 	@article{sg04,
@@ -90,7 +90,7 @@ Referência
 	  doi={ https://doi.org/10.1108/IJOPM-12-2020-0837 }
 	}
 
-## 09. Survival at the expense of the weakest? Managing modernslavery risks in supply chains during COVID-19
+## 09. Survival at the expense of the weakest? Managing modern slavery risks in supply chains during COVID-19
 
 Referência
 	@article{sg09,
@@ -125,8 +125,6 @@ Referência
 	  publisher={Emerald Group Publishing Limited},
 	  doi={ https://doi-org.ez45.periodicos.capes.gov.br/10.1108/13598541211258609 }
 	}
-
-
 
 ## Revistas:
 #### Journal of Cleaner Production
@@ -163,5 +161,5 @@ Referência
 	Publicadora: Emerald Publishing
 #### Supply Chain Management: An International Journal
 	Percentil no Scopus: N/A
-	CiteScore 2023: N/A
+	CiteScore 2023: 16.7
 	Publicadora: ExcelingTech
